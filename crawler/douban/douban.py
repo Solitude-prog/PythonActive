@@ -1,6 +1,4 @@
 """
-@Author：失去了才知道珍惜
-@Time：2024-12-04 0004 23:51
 @FileName: douban.py
 @Description：todo: 
 """

@@ -1,10 +1,3 @@
-"""
-@Author：失去了才知道珍惜
-@Time：2024-12-06 0006 12:59
-@FileName: Book.py
-@Description：todo: 封装书籍信息
-"""
-
 
 # 图书类，封装图书信息
 class Book:
